@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    font-size: 50px;
+}
+.aa{
+    text-align: center;
+    font-size: 100px;
+}
+.ll{
+    color: white;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    margin: 100px;
+    margin-left: 650px;
+    margin-right: 650px;
+    font-size: 50px;
+}
+.rr{
+    color: white;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    margin: 100px;
+    margin-left: 650px;
+    margin-right:650px;
+    font-size: 50px;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+
+
